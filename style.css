@@ -175,7 +175,7 @@ a:hover {
 
 .title-left {
   color: #eee;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   position: relative;
 }
 
@@ -466,7 +466,7 @@ a:hover {
   }
 
   .intro .intro-subtitle {
-    font-size: 2.5rem;
+    font-size: 2f.5rem;
   }
 
   .intro-single .intro-title {
@@ -588,7 +588,7 @@ a:hover {
 
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
-  background-color: #222;
+  background-color: #000;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -736,11 +736,11 @@ a:hover {
 .intro .intro-title {
   color: #fff;
   font-weight: 600;
-  font-size: 3rem;
+  font-size: 4rem;
 }
 
 .intro .intro-subtitle {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: 300;
 }
 
@@ -823,9 +823,9 @@ a:hover {
 
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
-  color: #fff;
-  background-color: #cc9c3d;
-  box-shadow: 0 0 0 10px #fff ;
+  color: #cc9c3d;
+  background-color: #111;
+  box-shadow: 0 0 0 10px #ccc ;
 }
 
 .service-box .service-ico {
